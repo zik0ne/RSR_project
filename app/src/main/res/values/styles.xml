@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#0092BB</item>
+        <item name="colorPrimaryDark">#0092BB</item>
+        <item name="android:textColor">@color/tittle_color</item>
+    </style>
+
+    <style name="CustomTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="colorPrimary">#0092BB</item>
+        <item name="colorPrimaryDark">#0092BB</item>
+
+    </style>
+
+
+
+    <style name="FadeTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/trans_black</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="colorPrimaryDark">#000092BB</item>
+
+
+    </style>
+
+</resources>

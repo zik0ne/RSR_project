@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RSR</string>
+    <string name="car">car</string>
+    <string name="rsr_pechhulp">RSR Pechhulp</string>
+    <string name="todo">TODO</string>
+    <string name="info">info</string>
+    <string name="button">Button</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="text_info">Om deze app te gebruike, dient u</string>
+
+    <string name="link_text_info">
+    het <a href="https://www.rsr.nl/index.php?page=privacy-wetgeving&amp;fbclid=IwAR3CeBw8dfTqOKEbgwjsbBrWgYKqpmhBRxAB3dLPrwkOdki_dJ4a0UYxe5o">privacybeleid</a> te accepteren
+    </string>
+
+    <string name="link_text_info_tablet">
+        Wilt u meer weten over onze producten, kijk dan op <a href="www.rsr.nl">www.rsr.nl</a>of bezoek onze showrooms in Silvolde en Nieuwleusen. We zijn iedere werkdag geopend van 8.00 tot 17.00 uur. Hier kunt u diverse hulpmiddelen uitproberen en  rustig bekijken wat goed bij uw situatie aansluit. Sammen met u zoeken we naar het hulpmiddel dat bij u past. RSR maakt mensen mobiel.
+    </string>
+
+    <string name="location_change_receiver">android.location.PROVIDERS_CHANGED</string>
+
+</resources>
